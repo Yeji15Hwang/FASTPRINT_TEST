@@ -1,0 +1,5 @@
+Menampilkan data, CRUD, menggunakan HTML dan PHP dengan Visual Studio Code
+Database SQL menggunakan phpmyadmin localhost
+
+kategori ditambahkan secara manual melalui phpmyadmin. ada 6 kategori yang terdapat di API yang didownload
+id kategori 1-6 urut sesuai data dari API, contoh : id kategori 1 = L QUEENLY, id kategori 2 = L MTH AKSESORIS (IM), dst
